@@ -1,0 +1,1 @@
+Sticky footer(subsol lipicios), versiunea cu wrapper si pozitionarea absoluta.

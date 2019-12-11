@@ -1,0 +1,1 @@
+un antet pe toata vizualizarea(fullscreen)

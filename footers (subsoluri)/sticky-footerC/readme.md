@@ -1,0 +1,1 @@
+sticky footer C, varianta in care html-ul e pozitionat relative.
