@@ -1,0 +1,1 @@
+Aici avem html si css pt un antet simplu. sper sa imi foloseasca la un moment dat.
